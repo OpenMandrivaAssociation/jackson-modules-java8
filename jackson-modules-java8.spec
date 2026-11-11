@@ -1,6 +1,6 @@
 Name:		jackson-modules-java8
 Version:	2.22.3
-Release:	1
+Release:	2
 Summary:	Jackson modules for Java 8 types
 Group:		Development/Java
 License:	Apache-2.0
